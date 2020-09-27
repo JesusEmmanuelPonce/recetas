@@ -6,7 +6,6 @@
 
 @endsection
 
-
 @section('content')
     <h2 class="text-center mb-5">
         Administra tus recetas
